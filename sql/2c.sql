@@ -1,0 +1,1 @@
+INSERT INTO kunde_ny (knr, kunde_xml) 
